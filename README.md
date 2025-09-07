@@ -1,2 +1,2 @@
 # Delivery-Game
-Udemy Delivery Game Course Project 1
+Udemy Course Project 1 Delivery Game
